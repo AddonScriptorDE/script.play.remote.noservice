@@ -1,0 +1,23 @@
+<settings>
+  <category label="1. Remote XBMC">
+    <setting id="name" type="text" label="Name" default="" />
+    <setting id="ip" type="ipaddress" label="30001" default="" />
+    <setting id="port" type="number" label="30002" default="8080" />
+    <setting id="user" type="text" label="30003" default="xbmc" />
+    <setting id="pw" type="text" option="hidden" label="30004" default="" />
+  </category>
+  <category label="2. Remote XBMC">
+    <setting id="name2" type="text" label="Name" default="" />
+    <setting id="ip2" type="ipaddress" label="30001" default="" />
+    <setting id="port2" type="number" label="30002" default="8080" />
+    <setting id="user2" type="text" label="30003" default="xbmc" />
+    <setting id="pw2" type="text" option="hidden" label="30004" default="" />
+  </category>
+  <category label="3. Remote XBMC">
+    <setting id="name3" type="text" label="Name" default="" />
+    <setting id="ip3" type="ipaddress" label="30001" default="" />
+    <setting id="port3" type="number" label="30002" default="8080" />
+    <setting id="user3" type="text" label="30003" default="xbmc" />
+    <setting id="pw3" type="text" option="hidden" label="30004" default="" />
+  </category>
+</settings>
